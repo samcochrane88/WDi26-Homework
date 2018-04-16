@@ -1,4 +1,4 @@
-  require 'pry'
+require 'pry'
 
 $lines = {
   'N' => ["times square", "34th", "28th_N", "23rd_N", "union square", "8th_N"],
